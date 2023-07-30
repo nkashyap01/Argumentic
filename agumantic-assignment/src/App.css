@@ -1,0 +1,131 @@
+.Navbar {
+  margin: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Navbar div ul li {
+  display: inline-block;
+  margin: 10px;
+  font-weight: 600;
+}
+
+.center {
+  text-align: center;
+  margin-top: 20px;
+  font-family: "Dancing Script", cursive;
+  font-size: 30px;
+}
+
+.signup {
+  background-color: #e5e7e9;
+  border-radius: 8px;
+  padding: 12px;
+}
+
+.hire {
+  background-color: black;
+  color: #d6dbdf;
+  padding: 12px;
+  border-radius: 10px;
+}
+
+.body-first {
+  display: flex;
+  justify-content: space-around;
+}
+
+.body-first .left {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  margin-left: 15rem;
+}
+
+.left-left ul {
+  position: relative;
+  top: -70px;
+}
+
+.left-left ul li {
+  display: inline-block;
+  font-size: 17px;
+  margin: 4px;
+  margin-left: 10px;
+}
+
+.left-right {
+  margin-left: 30rem;
+}
+
+.left {
+  margin-left: 10rem;
+}
+
+.first-first {
+  font-size: 40px;
+  position: relative;
+  top: 20px;
+}
+
+.heading {
+  position: relative;
+  top: -45px;
+  left: 50px;
+}
+
+.icon-second {
+  padding: 10px;
+  font-size: 25px;
+  margin-left: -25rem;
+  border: 1px solid grey;
+  border-radius: 5px;
+}
+
+.icon-third {
+  padding: 10px;
+  font-size: 25px;
+  border: 1px solid grey;
+  border-radius: 8px;
+  margin-left: 10px;
+}
+
+.group-icon {
+  margin-top: 25px;
+  display: block;
+  border: 1px solid grey;
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 8px;
+}
+
+.right {
+  position: relative;
+  left: -5rem;
+}
+
+.left-left > img {
+  width: 130%;
+  margin-left: 5rem;
+  margin-top: -3rem;
+}
+
+.Text {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.body-second > img {
+  margin-top: 20px;
+  width: 80%;
+  position: relative;
+  left: 150px;
+}
+
+.Footer > img {
+  width: 90%;
+  position: relative;
+  top: 40px;
+  left: 80px;
+}
